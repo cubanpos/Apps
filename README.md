@@ -2,6 +2,6 @@
 
 Instaladores y recursos de mis aplicaciones.
 
-## AsisPrecios
+## AxisPrecios
 
-Los instaladores de AsisPrecios estan en la carpeta AsisPrecios.
+Los instaladores de AxisPrecios estan en la carpeta AxisPrecios.
