@@ -6,4 +6,4 @@ Instaladores y recursos de mis aplicaciones.
 
 Los instaladores estan en la carpeta [AxisPrecios](AxisPrecios).
 
-Link directo: https://github.com/cubapos/Apps/tree/main/AxisPrecios
+Link directo: https://github.com/cubanpos/Apps/tree/main/AxisPrecios
